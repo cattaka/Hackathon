@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TimeOfDrag</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="label_routine_time">毎日%1$d</string>
+    <string name="label_reply_answer">回答を送信する</string>
+    
+    <string-array name="items_reply">
+        <item >完了しました</item>
+        <item >5分後に再通知</item>
+        <item >10分後に再通知</item>
+    </string-array>
+</resources>

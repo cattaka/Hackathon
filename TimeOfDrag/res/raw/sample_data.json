@@ -1,0 +1,5 @@
+[
+{ "title":"朝のお薬の時間です", "detail":"レッドブル", "routine_time":"HOUR_8" },
+{ "title":"昼のお薬の時間です", "detail":"モンスター", "routine_time":"HOUR_12" },
+{ "title":"夜のお薬の時間です", "detail":"ユンケル", "routine_time":"HOUR_19" }
+]
